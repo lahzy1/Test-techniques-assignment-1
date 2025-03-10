@@ -6,6 +6,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buscompany.UnitTests", "Bus
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusCompany", "BusCompany\BusCompany.csproj", "{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusCompany.Specs", "BusCompany.Specs\BusCompany.Specs.csproj", "{2F7C5DD0-B921-493B-8EA4-F0AFD7195F2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7C5DD0-B921-493B-8EA4-F0AFD7195F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7C5DD0-B921-493B-8EA4-F0AFD7195F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7C5DD0-B921-493B-8EA4-F0AFD7195F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7C5DD0-B921-493B-8EA4-F0AFD7195F2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
